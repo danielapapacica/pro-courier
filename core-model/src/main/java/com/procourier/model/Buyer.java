@@ -2,7 +2,7 @@ package com.procourier.model;
 
 import java.util.Objects;
 
-public class Buyer {
+public final class Buyer {
     private String name;
     private Address address;
 
